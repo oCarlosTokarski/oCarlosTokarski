@@ -67,7 +67,7 @@ Atualmente estou estudando Engenharia de Software e desenvolvendo projetos enqua
 🔧 Git
 
 ## 🔜 Próximos Passos
-⚛️ React.js
+⚛️ React.js <br>
 #️⃣ C#
 
 ## 🎯 Próximo Objetivo
