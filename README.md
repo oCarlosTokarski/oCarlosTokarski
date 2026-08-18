@@ -61,9 +61,9 @@ Atualmente estou estudando Engenharia de Software e desenvolvendo projetos enqua
 🇺🇸 Inglês Intermediário
 
 ## 📚 Estudando Atualmente
-🐍 Python & FastAPI
-🗄️ SQL & PostgreSQL
-💻 Aperfeiçoando meus conhecimentos em C++ e Javascript
+🐍 Python & FastAPI <br>
+🗄️ SQL & PostgreSQL <br>
+💻 Aperfeiçoando meus conhecimentos em C++ e Javascript <br>
 🔧 Git
 
 ## 🔜 Próximos Passos
